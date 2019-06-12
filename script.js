@@ -3,7 +3,7 @@ var context = canvas.getContext("2d")
 
 const colors = ["#00008B", "#8A2BE2", "#D2691E", "#E9967A", "#20B2AA", "#9932CC", "#008000"]
 
-const BALL_COUNT = 1000
+const BALL_COUNT = 300
 const MIN_BALL_RADIUS = 10
 const BALL_RADIUS_FACTOR = 10
 
